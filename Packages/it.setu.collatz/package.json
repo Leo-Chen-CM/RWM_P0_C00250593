@@ -1,0 +1,7 @@
+{
+	"name": "ie.setu.collatz",
+	"version": "0.1.0",
+	"displayName": "Collatz",
+	"description": "For each number n, if n is odd, replace by 3n + 1 otherwise replace by n / 2.",
+	"unity": "2021.3"
+}
